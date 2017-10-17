@@ -17,7 +17,6 @@
 | [Telecaller Receives the call notification and response](https://github.com/TwishaP/vCalling-Feature-Document/blob/master/On%20Going%20Call.md)      |   Complete and Live   |
 | [On going call - no interrupt](https://github.com/TwishaP/vCalling-Feature-Document/blob/master/on%20going%20call-%20no%20interrupt.md)      |   Complete and Live   |
 | [On going call interrupt handelling](https://github.com/TwishaP/vCalling-Feature-Document/blob/master/On%20going%20call%20interrupt%20handling.md)      |   Complete and Live   |
-
 | [Conference Call](https://github.com/TwishaP/vCalling-Feature-Document/blob/master/On%20going%20call%20interrupt%20handling.md)      |   Complete and Live   |
 
 ### Dashboard
