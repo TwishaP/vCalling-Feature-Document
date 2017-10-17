@@ -21,8 +21,10 @@ Telecaller will also have end call button.
   search and home button should be there
 
   - Collection selected 
-
+  
     Both user land on first content of collection 
+    
+    all item in collection will be ordered 
 
     on swipe content change (next button for video and 360)
 
