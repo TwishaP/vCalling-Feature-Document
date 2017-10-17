@@ -32,3 +32,10 @@
 | -------------------------------- |------|
 | [Public Link Generator](#)       |   In Developement   |
 | [In bound call](#)       |   In Developement   |
+
+### Other Interactions 
+
+| List of Interactions                         |Status|
+| -------------------------------- |------|
+| [iphone](#)       |   In Developement   |
+
