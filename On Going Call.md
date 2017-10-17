@@ -1,6 +1,4 @@
-## On Going Call
-
-### Telecaller Receives the call notification and response 
+## Telecaller Receives the call notification and response 
 
 **Context : Telecaller has details of customer from database or from online form**
 
