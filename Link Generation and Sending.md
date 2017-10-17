@@ -5,5 +5,7 @@
   - He types each detail
     - Tags are predicted and as user press enter , tag is added
   - He will chose where to send and mark the check box
+  
 - user Press send the link 
   - Link is sent to user
+  - Profile for that customer is created on dashboard
