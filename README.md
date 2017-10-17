@@ -13,5 +13,5 @@
 
 | List of Interactions                         |Status|
 | -------------------------------- |------|
-| [Telecaller Receives the call notification and response](https://github.com/TwishaP/vCalling-Feature-Document/blob/master/On%20Going%20Call.md)      |   Complete and Live   |
 | [Customer's call connection](https://github.com/TwishaP/vCalling-Feature-Document/blob/master/call%20initiation.md)       |   In Developement   |
+| [Telecaller Receives the call notification and response](https://github.com/TwishaP/vCalling-Feature-Document/blob/master/On%20Going%20Call.md)      |   Complete and Live   |
