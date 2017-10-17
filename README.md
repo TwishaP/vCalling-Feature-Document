@@ -25,3 +25,10 @@
 | -------------------------------- |------|
 | [Dashboard](https://github.com/TwishaP/vCalling-Feature-Document/blob/master/Dashboard.md)       |   In Developement   |
 | [Dashboard - Admin](#)       |   In Developement   |
+
+### Public Links and Call
+
+| List of Interactions                         |Status|
+| -------------------------------- |------|
+| [Public Link Generator](#)       |   In Developement   |
+| [In bound call](#)       |   In Developement   |
